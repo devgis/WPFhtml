@@ -1,0 +1,13 @@
+E:\Temp\wpfhtml\DEMOWEB05\TestWPF\bin\Debug\TestWPF.exe
+E:\Temp\wpfhtml\DEMOWEB05\TestWPF\bin\Debug\TestWPF.pdb
+E:\Temp\wpfhtml\DEMOWEB05\TestWPF\obj\x86\Debug\MainWindow.baml
+E:\Temp\wpfhtml\DEMOWEB05\TestWPF\obj\x86\Debug\MainWindow.g.cs
+E:\Temp\wpfhtml\DEMOWEB05\TestWPF\obj\x86\Debug\App.g.cs
+E:\Temp\wpfhtml\DEMOWEB05\TestWPF\obj\x86\Debug\TestWPF_MarkupCompile.cache
+E:\Temp\wpfhtml\DEMOWEB05\TestWPF\obj\x86\Debug\TestWPF.g.resources
+E:\Temp\wpfhtml\DEMOWEB05\TestWPF\obj\x86\Debug\TestWPF.Properties.Resources.resources
+E:\Temp\wpfhtml\DEMOWEB05\TestWPF\obj\x86\Debug\TestWPF.csproj.GenerateResource.Cache
+E:\Temp\wpfhtml\DEMOWEB05\TestWPF\obj\x86\Debug\TestWPF.exe
+E:\Temp\wpfhtml\DEMOWEB05\TestWPF\obj\x86\Debug\TestWPF.pdb
+E:\Temp\wpfhtml\DEMOWEB05\TestWPF\bin\Debug\TestWPF.exe.config
+E:\Temp\wpfhtml\DEMOWEB05\TestWPF\obj\x86\Debug\TestWPF.csprojResolveAssemblyReference.cache
